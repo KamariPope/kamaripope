@@ -9,7 +9,7 @@ const myFont = localFont({
 });
 
 export const metadata: Metadata = {
-    title: "Marsel Developer Portfolio",
+    title: "Kamari Developer Portfolio",
     description:
         "My personal portfolio website for showcasing some of my work and sharing my ideas",
 };
