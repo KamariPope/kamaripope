@@ -2,9 +2,9 @@ import logoImage from "@/assets/images/craft_logo.svg"
 import { StaticImport } from "next/dist/shared/lib/get-img-props";
 import Image from "next/image";
 const footerLinks = [
-    { href: "https://github.com/EmehGreg", label: "GitHub" },
+    { href: "https://github.com/kamaripope", label: "GitHub" },
     {
-        href: "https://www.linkedin.com/",
+        href: "https://www.linkedin.com/kamari-pope",
         label: "LinkedIn",
     },
     { href: "https://x.com/", label: "Twitter" },
