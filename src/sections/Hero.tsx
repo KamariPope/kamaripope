@@ -125,7 +125,7 @@ const Hero = () => {
                 </p>
                 <div className="flex rounded-full mt-8 justify-center items-center min-w-max max-w-lg mx-auto">
                     <Link
-                        href={"mailto:therealemehgreguchenna@gmail.com"}
+                        href={"mailto:kamaripope@gmail.com"}
                         target="_blank"
                         className="font-medium"
                     >

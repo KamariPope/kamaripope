@@ -15,7 +15,7 @@ export default function CTA() {
                             inquiries or just to say hello.
                         </p>
                         <Link
-                            href={"mailto:therealemehgreguchenna@gmail.com"}
+                            href={"mailto:kamaripope@gmail.com"}
                             target="_blank"
                             className="font-medium mx-auto max-w-max flex"
                         >
